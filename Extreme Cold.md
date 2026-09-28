@@ -1,0 +1,4 @@
+Whenever the temperature is at or below 0 degrees Fahrenheit:
+
+- Creatures exposed to the cold must succeed on a **DC 10 Constitution saving throw** at the **end of each hour** or gain one level of **exhaustion** on a fail. 
+- Creatures with **resistance or immunity** to cold damage **automatically succeed** on the saving throw, as do creatures wearing **cold weather gear** (thick coats, gloves, and the like) and creatures **naturally adapted** to cold climates.
