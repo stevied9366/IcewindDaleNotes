@@ -1,4 +1,5 @@
-![[TargosDMMap.png|454]]**Population** 1000
+![[TargosDMMap.png|454]]
+**Population** 1000
 
 **Leaders** 
 * [[Speaker Naerth Maxildanarr]] (LE Human Spy) - Secretly a Zhentarim agent, who won the speakership because of his popularity with the fishers. Eager to secure a Zhentarim stranglehold on trade in Icenwind Dale
